@@ -140,14 +140,7 @@ pip install -r requirements.txt
 python m1_power_bot.py
 ```
 
-````
-
----
-
- Configuration
-
-```markdown
-## ⚙️ Configuration
+⚙️ Configuration
 
 The strategy contains configurable parameters for:
 
@@ -170,10 +163,7 @@ The strategy contains configurable parameters for:
 
 
 
- Security section
-
-```markdown
-## 🔐 Security
+  🔐 Security
 
 Never commit sensitive credentials to GitHub.
 
@@ -191,10 +181,7 @@ from Git with `.gitignore`.
 
 ---
 
- Disclaimer
-
-```markdown
-## ⚠️ Disclaimer
+⚠️ Disclaimer
 
 This project is provided for educational purposes, algorithmic-trading
 research, and demo-account testing.
@@ -210,8 +197,7 @@ The author is not responsible for financial losses or misuse of the software.
 
  Author section
 
-```markdown
-## 👨‍💻 Author
+ 👨‍💻 Author
 
 ### Rubal Kumar
 
