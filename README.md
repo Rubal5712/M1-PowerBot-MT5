@@ -16,7 +16,7 @@
 - **Automatic profit target** & stop‑loss management
 
 ## Configuration
-Edit the `# 🔧 CONFIGURATION` section in `main.py`:
+Edit the `# 🔧 CONFIGURATION` :
 
 | Parameter                     | Description |
 |-------------------------------|-------------|
@@ -48,7 +48,7 @@ Edit the `# 🔧 CONFIGURATION` section in `main.py`:
    pip install -r requirements.txt
    ```
 
-3. **Configure** – open `main.py` and fill in your MT5 login and other settings.
+3. **Configure** – fill in your MT5 login and other settings.
 
 4. **Run the bot**
    ```bash
